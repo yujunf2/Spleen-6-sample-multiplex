@@ -1,6 +1,6 @@
 This file contains script that processes sequencing data after CellRanger Count in the spleen-samples-multiplxing test. 
 Major result and analysis are shown in Figure 3 and Figure S11-S14. 
-The raw sequencing data and data after CellRanger Count (processed data) are accessible on GEO recordes with accession code: GSE280262. 
+The raw sequencing data and data after CellRanger Count (Processed files) are accessible on GEO recordes with accession code: GSE280262. 
 
 Corresponding file names are: 
 
