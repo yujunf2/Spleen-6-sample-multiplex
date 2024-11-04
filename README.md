@@ -4,10 +4,18 @@ The raw sequencing data and data after CellRanger Count (processed data) are acc
 
 Corresponding file names are: 
 
-Raw sequencing data: 
-Sp_GEX_S1_L007_I1_001.fastq.gz	Sp_GEX_S1_L007_I2_001.fastq.gz	Sp_GEX_S1_L007_R1_001.fastq.gz	Sp_GEX_S1_L007_R2_001.fastq.gz	
-Sp_Cell_SurfaceP_S2_L007_I1_001.fastq.gz	Sp_Cell_SurfaceP_S2_L007_I2_001.fastq.gz	Sp_Cell_SurfaceP_S2_L007_R1_001.fastq.gz	Sp_Cell_SurfaceP_S2_L007_R2_001.fastq.gz	
+- Raw sequencing data: 
+  - Sp_GEX_S1_L007_I1_001.fastq.gz
+  - Sp_GEX_S1_L007_I2_001.fastq.gz
+  - Sp_GEX_S1_L007_R1_001.fastq.gz
+  - Sp_GEX_S1_L007_R2_001.fastq.gz
+  - Sp_Cell_SurfaceP_S2_L007_I1_001.fastq.gz
+  - Sp_Cell_SurfaceP_S2_L007_I2_001.fastq.gz
+  - Sp_Cell_SurfaceP_S2_L007_R1_001.fastq.gz
+  - Sp_Cell_SurfaceP_S2_L007_R2_001.fastq.gz	
 
-Processed files:
-sp_barcodes.tsv.gz	sp_features.tsv.gz	sp_matrix.mtx.gz
+- Processed files:
+  - sp_barcodes.tsv.gz
+  - sp_features.tsv.gz
+  - sp_matrix.mtx.gz
 		
